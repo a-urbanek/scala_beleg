@@ -1,0 +1,4 @@
+[warn] sbteclipse-plugin.jar no longer exists at /home/arch/.cache/coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.12/sbt_1.0/5.2.2/jars/sbteclipse-plugin.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/home/arch/IdeaProjects/Beleg1ListsAufgabe/project/"), "beleg1listsaufgabe-build")...
+[debug] Done updating ProjectRef(uri("file:/home/arch/IdeaProjects/Beleg1ListsAufgabe/project/"), "beleg1listsaufgabe-build")
